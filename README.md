@@ -1,4 +1,4 @@
-# number-guessing-game 🎲
+# Number-Guessing-Game 🎲
 
 ### Description
 This is a simple number guessing game implemented in Bash, interacting directly with a PostgreSQL database. The game allows users to guess a randomly generated secret number between 1 and 1000.
